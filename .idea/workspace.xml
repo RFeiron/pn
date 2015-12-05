@@ -2,48 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c58bf99e-a2ca-4a38-a4c4-881ba5387056" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pn_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/pn_war_exploded2.xml" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__javax_servlet_jsp_api_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__org_hibernate_hibernate_core_4_3_6_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__org_jboss_jandex_1_1_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__org_springframework_security_spring_security_config_4_1_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__org_springframework_security_spring_security_taglibs_4_1_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\libraries\Maven__org_springframework_security_spring_security_web_4_1_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\target\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\target\classes\com\springapp\mvc\controller\BookController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\target\classes\com\springapp\mvc\domain\Book.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\target\classes\com\springapp\mvc\repository\BookRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\target\classes\com\springapp\mvc\validation\BookValidator.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\target\untitled1.war" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\com\springapp\mvc\controller\BookController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\com\springapp\mvc\domain\Book.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\com\springapp\mvc\repository\BookRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\com\springapp\mvc\validation\BookValidator.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/springapp/mvc/AppTests.class" afterPath="$PROJECT_DIR$/target/test-classes/com/springapp/mvc/AppTests.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ua/com/feiron/domain/Profnastil.class" afterPath="$PROJECT_DIR$/target/classes/ua/com/feiron/domain/Profnastil.class" />
-      <change type="MODIFICATION" beforePath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\ua\com\feiron\domain\Profnastil.class" afterPath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\ua\com\feiron\domain\Profnastil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ua/com/feiron/controller/ProfnastilController.class" afterPath="$PROJECT_DIR$/target/classes/ua/com/feiron/controller/ProfnastilController.class" />
-      <change type="MODIFICATION" beforePath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\ua\com\feiron\controller\ProfnastilController.class" afterPath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\ua\com\feiron\controller\ProfnastilController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ua/com/feiron/repository/ProfnastilRepository.class" afterPath="$PROJECT_DIR$/target/classes/ua/com/feiron/repository/ProfnastilRepository.class" />
-      <change type="MODIFICATION" beforePath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\ua\com\feiron\repository\ProfnastilRepository.class" afterPath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\ua\com\feiron\repository\ProfnastilRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ua/com/feiron/validation/ProfnastilValidator.class" afterPath="$PROJECT_DIR$/target/classes/ua/com/feiron/validation/ProfnastilValidator.class" />
-      <change type="MODIFICATION" beforePath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\ua\com\feiron\validation\ProfnastilValidator.class" afterPath="E:\prog\IntellijWorkSpace\Pn\target\untitled1\WEB-INF\classes\ua\com\feiron\validation\ProfnastilValidator.class" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\META-INF\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\application-context.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\classes\hibernate.cfg.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\classes\jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\classes\ua\com\feiron\controller\ProfnastilController.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\classes\ua\com\feiron\domain\Profnastil.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\classes\ua\com\feiron\repository\ProfnastilRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\classes\ua\com\feiron\validation\ProfnastilValidator.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\antlr-2.7.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\asm-1.5.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\asm-attrs-1.5.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\cglib-2.1_3.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\commons-collections-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\commons-logging-1.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\dom4j-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\ehcache-1.2.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\ejb3-persistence-1.0.1.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\hibernate-3.2.6.ga.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\hibernate-annotations-3.3.1.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\hibernate-commons-annotations-3.3.0.ga.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\hibernate-core-3.3.2.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\jta-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\mysql-connector-java-5.1.34.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\persistence-api-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\servlet-api-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\slf4j-api-1.5.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-aop-4.1.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-beans-4.1.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-context-4.1.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-core-4.1.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-expression-4.1.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-jdbc-4.1.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-orm-4.1.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-security-acl-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-security-config-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-security-core-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-security-taglibs-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-security-web-3.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-tx-4.1.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-web-4.1.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\spring-webmvc-4.1.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\lib\xml-apis-1.0.b2.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\mvc-dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\addBook.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\addProfnastil.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\calc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\calc1.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\css\bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\css\bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\index1.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\pages\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\security-context.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\tags\template.tag" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\resources\c\main.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\resources\img\bd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\resources\img\calc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\resources\img\i.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\prog\IntellijWorkSpace\pn\target\pn\resources\s\ProfnastilUtils.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/pn_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/pn_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/untitled1_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/untitled1_war.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\prog\IntellijWorkSpace\Pn\.idea\artifacts\untitled1_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/pn_war_exploded.xml" />
-      <change type="MOVED" beforePath="E:\prog\IntellijWorkSpace\Pn\untitled1.iml" afterPath="$PROJECT_DIR$/pn.iml" />
     </list>
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,7 +116,7 @@
       <file leaf-file-name="template.tag" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/template.tag">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.153846">
+            <state vertical-scroll-proportion="0.0">
               <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
               <folding />
             </state>
@@ -122,9 +159,7 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-                <element signature="e#1092#1093#0" expanded="true" />
+                <marker date="1449274867128" expanded="true" signature="42:563" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -163,7 +198,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.31987578">
+            <state vertical-scroll-proportion="0.4262295">
               <caret line="130" column="33" selection-start-line="130" selection-start-column="33" selection-end-line="130" selection-end-column="33" />
               <folding />
             </state>
@@ -293,17 +328,31 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pn" />
+              <option name="myItemId" value="pn" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pn" />
+              <option name="myItemId" value="pn" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pn" />
+              <option name="myItemId" value="pn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -357,7 +406,7 @@
       <recent name="ua.com.feiron.repository" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.15">
+  <component name="RunManager" selected="OpenShift Deployment.OpenShift">
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings />
@@ -617,16 +666,25 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="openshift-deploy" factoryName="OpenShift Deployment">
+      <method />
+    </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration default="false" name="OpenShift" type="openshift-deploy" factoryName="OpenShift Deployment" server-name="OpenShift">
+      <deployment type="module" name="pn">
+        <settings />
+      </deployment>
+      <method />
+    </configuration>
     <configuration default="false" name="Tomcat 8.0.15" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.23" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="pn:war exploded">
+        <artifact name="pn.war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -692,11 +750,16 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method />
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="pn.war exploded" />
+        </option>
+      </method>
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JUnit.AppTests" />
-      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.0.15" />
+      <item index="1" class="java.lang.String" itemvalue="OpenShift Deployment.OpenShift" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.0.15" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -728,6 +791,7 @@
       <workItem from="1449227288465" duration="4029000" />
       <workItem from="1449235316068" duration="7054000" />
       <workItem from="1449246134588" duration="867000" />
+      <workItem from="1449275143658" duration="480000" />
     </task>
     <task id="LOCAL-00001" summary="lLesson2">
       <created>1417360210046</created>
@@ -735,11 +799,17 @@
       <option name="project" value="LOCAL" />
       <updated>1417360210046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Deploy">
+      <created>1449275537824</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1449275537824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102885000" />
+    <option name="totallyTimeSpent" value="103365000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -763,7 +833,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279743" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -771,10 +841,10 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12969284" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.49394855" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32764506" sideWeight="0.49394855" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16033435" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40273038" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40273038" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.49394855" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -811,7 +881,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lLesson2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lLesson2" />
+    <MESSAGE value="Deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deploy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -837,9 +908,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
+            <marker date="1449274867128" expanded="true" signature="42:563" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1236,9 +1305,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
+            <marker date="1449274867128" expanded="true" signature="42:563" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1253,7 +1320,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/template.tag">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.153846">
+        <state vertical-scroll-proportion="0.0">
           <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
           <folding />
         </state>
@@ -1269,7 +1336,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.31987578">
+        <state vertical-scroll-proportion="0.4262295">
           <caret line="130" column="33" selection-start-line="130" selection-start-column="33" selection-end-line="130" selection-end-column="33" />
           <folding />
         </state>
@@ -1281,7 +1348,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>pn:war exploded</last-edited>
+          <last-edited>pn.war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
